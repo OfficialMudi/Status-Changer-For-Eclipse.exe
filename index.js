@@ -25,7 +25,7 @@ app.get('/', (req, res) => {
   res.send('Lo Status Del Tuo Bot E Cambiato!✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Giocando A: discord.gg/Hmm8aXRDM8`);
+  console.log(`🔗 Giocando A: discord.gg/lunarservice`);
   console.log(`🔗 Powered By MudiOnTop`);
 });
 
