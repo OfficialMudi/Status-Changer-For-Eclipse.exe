@@ -30,7 +30,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🤖Bot MCAI🤖","🔥Messicano City AI🔥","🔗discord.gg/Hmm8aXRDM8🔗","👑Best Fivem Server👑","😈Bot Made By MudiOnTop😈"];
+const statusMessages = ["🤖Bot Lunar🤖","🔥Lunar Service🔥","🔗.gg/lunarservice🔗","👑Best Shop👑","😈Bot Made By MudiOnTop😈"];
 
 
 let currentIndex = 0;
