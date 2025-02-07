@@ -30,7 +30,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🔍Eclipse.Exe🔍","💻ScreenShare💻","🔗.gg/eclipse-exe🔗","😈Bot Made By Mudi😈"];
+const statusMessages = ["🔍Eclipse.Exe🔍","💻ScreenShare💻","🔗.gg/Eclipse-Cxe🔗","😈Bot Made By Mudi😈"];
 
 
 let currentIndex = 0;
